@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  metadata:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: metadata
+    ports:
+      - "8082:8082"
+    volumes:
+      - ./backend/metadata/metadata.json:/root/metadata.json
+    environment:
+      - PORT=8082
+
+  calculation:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: calculation
+    ports:
+      - "8081:8081"
+    environment:
+      - PORT=8081
+      - METADATA_URL=http://metadata:8082/items
+    depends_on:
+      - metadata
+
+  # Ingestion Service (Mock Mode for Docker)
+  # Real Sniffer requires host networking which is tricky on Windows Docker
+  ingestion:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      args:
+        SERVICE_NAME: ingestion
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - CALCULATION_URL=http://calculation:8081/orders
+      - USE_REAL_SNIFFER=false 
+    depends_on:
+      - calculation
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - ingestion
+      - calculation

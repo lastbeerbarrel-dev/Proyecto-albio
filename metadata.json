@@ -1,0 +1,42 @@
+{
+  "T4_BAG": {
+    "id": "T4_BAG",
+    "name": "Adept's Bag",
+    "tier": 4,
+    "category": "",
+    "base_ip": 700,
+    "reference_price": 3000
+  },
+  "T4_MAIN_SWORD": {
+    "id": "T4_MAIN_SWORD",
+    "name": "Adept's Broadsword",
+    "tier": 4,
+    "category": "",
+    "base_ip": 700,
+    "reference_price": 4500
+  },
+  "T7_POTION_HEAL": {
+    "id": "T7_POTION_HEAL",
+    "name": "Major Healing Potion",
+    "tier": 7,
+    "category": "",
+    "base_ip": 0,
+    "reference_price": 5800
+  },
+  "T8_HEAD_PLATE": {
+    "id": "T8_HEAD_PLATE",
+    "name": "Elder's Guardian Helmet",
+    "tier": 8,
+    "category": "",
+    "base_ip": 1100,
+    "reference_price": 65000
+  },
+  "T8_MAIN_ROCK_AVALON": {
+    "id": "T8_MAIN_ROCK_AVALON",
+    "name": "Avalonian Rock",
+    "tier": 8,
+    "category": "",
+    "base_ip": 0,
+    "reference_price": 1100000
+  }
+}

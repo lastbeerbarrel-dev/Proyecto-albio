@@ -1,0 +1,3697 @@
+{
+  "T4_2H_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_2H_ARCANESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Infinitum (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_2H_ARCANESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Ocultismo (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_2H_ARCANESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Malevolencia (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_2H_AXE": {
+    "category": "Weapon",
+    "name": "Gran Hacha (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_AXE_AVALON": {
+    "category": "Weapon",
+    "name": "Rompeteinos (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_AXE_KEEPER": {
+    "category": "Weapon",
+    "name": "Carroña (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_BEARPAWS": {
+    "category": "Weapon",
+    "name": "Patas de Oso (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_BOW_AVALON": {
+    "category": "Weapon",
+    "name": "Lucent Hawk (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_BOW_HELL": {
+    "category": "Weapon",
+    "name": "Arco de Badon (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_BOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Susurrante (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_BOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Perforanieblas (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_CLAWSSPELL": {
+    "category": "Weapon",
+    "name": "Garras (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_2H_CLAYMORE": {
+    "category": "Weapon",
+    "name": "Claymore (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_2H_CLAYMORE_AVALON": {
+    "category": "Weapon",
+    "name": "Rey (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_2H_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Pesada (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_2H_CROSSBOW_AVALON": {
+    "category": "Weapon",
+    "name": "Avaloniana (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_2H_CROSSBOW_LARGE": {
+    "category": "Weapon",
+    "name": "Ballesta Repetidora (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_2H_CROSSBOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Ballesta de Cristal (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_2H_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_2H_CURSESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_2H_CURSESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Vida (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_2H_CURSESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Sombra (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_2H_DAGGERPAIR": {
+    "category": "Weapon",
+    "name": "Dagas en Par (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_2H_DAGGER_AVALON": {
+    "category": "Weapon",
+    "name": "Deathgivers (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_2H_DAGGER_HELL": {
+    "category": "Weapon",
+    "name": "Sedienta de Sangre (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_2H_DAGGER_MORGANA": {
+    "category": "Weapon",
+    "name": "Segadora de Almas (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_2H_DEMONICSTAFF": {
+    "category": "Weapon",
+    "name": "Demoníaco (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_2H_DIVINESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Divino (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_2H_DUALHAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Mano de Justicia (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_DUALSWORD": {
+    "category": "Weapon",
+    "name": "Espadas Dobles (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_2H_DUALSWORD_HELL": {
+    "category": "Weapon",
+    "name": "Galatinas (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_2H_ENIGMATICSTAFF": {
+    "category": "Weapon",
+    "name": "Enigmático (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_2H_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón de Fuego (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_FIRESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Llamas (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_FIRESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Sulfúrico (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_FIRESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bastón Salvaje (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_FIRESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ardiente (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_FLAIL": {
+    "category": "Weapon",
+    "name": "Lucero del Alba (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_2H_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_2H_FROSTSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Chill (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_2H_FROSTSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Hoary (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_2H_FROSTSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Permafrost (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_2H_GLACIALSTAFF": {
+    "category": "Weapon",
+    "name": "Glacial (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_2H_GLAIVE": {
+    "category": "Weapon",
+    "name": "Guadaña (Glaive) (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_2H_HALBERD": {
+    "category": "Weapon",
+    "name": "Alabarda (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo Grande (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_HAMMER_AVALON": {
+    "category": "Weapon",
+    "name": "Vigilante (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_HAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Martillo de la Forja (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_HAMMER_KEEPER": {
+    "category": "Weapon",
+    "name": "Martillo de Tumba (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_HARPOON": {
+    "category": "Weapon",
+    "name": "Espontón (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_2H_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón Sagrado (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_2H_HOLYSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Hallowfall (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_2H_HOLYSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Caído (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_2H_HOLYSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Redención (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_2H_INFERNOSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Infernal (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_2H_IRONCLADSTAFF": {
+    "category": "Weapon",
+    "name": "Grial (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_LONGBOW": {
+    "category": "Weapon",
+    "name": "Arco Largo (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_MACE": {
+    "category": "Weapon",
+    "name": "Maza Pesada (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_2H_MACE_AVALON": {
+    "category": "Weapon",
+    "name": "Guardián del Juramento (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_2H_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Camlann (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_2H_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_2H_NATURESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Espinas (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_2H_NATURESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Plaga (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_2H_NATURESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ironroot (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_2H_POLEHAMMER": {
+    "category": "Weapon",
+    "name": "Martillo de Polo (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_2H_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Monje Negro (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_QUARTERSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_QUARTERSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Almas (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_QUARTERSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Equilibrio (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_QUARTERSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Buscador de Dobles (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_2H_REPEATINGCROSSBOW_HELL": {
+    "category": "Weapon",
+    "name": "Ballesta de Asedio (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_2H_ROCKMACE_KEEPER": {
+    "category": "Weapon",
+    "name": "Maza de Roca (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_2H_SCIMITAR_MORGANA": {
+    "category": "Weapon",
+    "name": "Espada Tallada (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_2H_SCYTHE_HELL": {
+    "category": "Weapon",
+    "name": "Guadaña Infernal (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_2H_SHAPESHIFTER_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SHAPESHIFTER_BEAR": {
+    "category": "Weapon",
+    "name": "Oso (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SHAPESHIFTER_EAGLE": {
+    "category": "Weapon",
+    "name": "Águila (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SHAPESHIFTER_GOLEM": {
+    "category": "Weapon",
+    "name": "Golem (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SHAPESHIFTER_TREANT": {
+    "category": "Weapon",
+    "name": "Sylvian (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SHAPESHIFTER_WEREWOLF": {
+    "category": "Weapon",
+    "name": "Luna de Sangre (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_2H_SPEAR": {
+    "category": "Weapon",
+    "name": "Pica (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_2H_SPEAR_AVALON": {
+    "category": "Weapon",
+    "name": "Amanecer (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_2H_SPEAR_HELL": {
+    "category": "Weapon",
+    "name": "Trinidad (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_2H_WARBOW": {
+    "category": "Weapon",
+    "name": "Arco de Guerra (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_2H_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Batalla (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WARGLOVE_AVALON": {
+    "category": "Weapon",
+    "name": "Avalona (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WARGLOVE_HELL": {
+    "category": "Weapon",
+    "name": "Cuervo (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WARGLOVE_KEEPER": {
+    "category": "Weapon",
+    "name": "Ursine (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WARGLOVE_MORGANA": {
+    "category": "Weapon",
+    "name": "Hellfire (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WARGLOVE_SPIKE": {
+    "category": "Weapon",
+    "name": "Guantes de Púas (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_2H_WILDSTAFF": {
+    "category": "Weapon",
+    "name": "Salvaje (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_ARMOR_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Peto de Erudito (T4)",
+    "sub_category": "Erudito"
+  },
+  "T4_ARMOR_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Peto de Clerigo (T4)",
+    "sub_category": "Clerigo"
+  },
+  "T4_ARMOR_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Peto de Mercenario (T4)",
+    "sub_category": "Mercenario"
+  },
+  "T4_ARMOR_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Peto de Cazador (T4)",
+    "sub_category": "Cazador"
+  },
+  "T4_ARMOR_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Peto de Soldado (T4)",
+    "sub_category": "Soldado"
+  },
+  "T4_ARMOR_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Peto de Caballero (T4)",
+    "sub_category": "Caballero"
+  },
+  "T4_BAG": {
+    "category": "Accessory",
+    "name": "Bolso (T4)",
+    "sub_category": "Bolso"
+  },
+  "T4_CAPE": {
+    "category": "Accessory",
+    "name": "Capa (T4)",
+    "sub_category": "Capa"
+  },
+  "T4_CLOTH": {
+    "category": "Resource",
+    "name": "Tela (T4)",
+    "sub_category": "Recurso"
+  },
+  "T4_HEAD_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Casco de Erudito (T4)",
+    "sub_category": "Erudito"
+  },
+  "T4_HEAD_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Casco de Clerigo (T4)",
+    "sub_category": "Clerigo"
+  },
+  "T4_HEAD_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Casco de Mercenario (T4)",
+    "sub_category": "Mercenario"
+  },
+  "T4_HEAD_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Casco de Cazador (T4)",
+    "sub_category": "Cazador"
+  },
+  "T4_HEAD_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Casco de Soldado (T4)",
+    "sub_category": "Soldado"
+  },
+  "T4_HEAD_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Casco de Caballero (T4)",
+    "sub_category": "Caballero"
+  },
+  "T4_LEATHER": {
+    "category": "Resource",
+    "name": "Cuero (T4)",
+    "sub_category": "Recurso"
+  },
+  "T4_MAIN_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Arcano (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_MAIN_ARCANESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bruja (T4)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T4_MAIN_AXE": {
+    "category": "Weapon",
+    "name": "Hacha de Batalla (T4)",
+    "sub_category": "Hachas"
+  },
+  "T4_MAIN_BOW": {
+    "category": "Weapon",
+    "name": "Arco (T4)",
+    "sub_category": "Arcos"
+  },
+  "T4_MAIN_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Ligera (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_MAIN_CROSSBOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Tirador de Saetas (T4)",
+    "sub_category": "Ballestas"
+  },
+  "T4_MAIN_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Maldito (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_MAIN_CURSESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Calavera (T4)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T4_MAIN_DAGGER": {
+    "category": "Weapon",
+    "name": "Daga (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_MAIN_DAGGER_KEEPER": {
+    "category": "Weapon",
+    "name": "Colmillos (T4)",
+    "sub_category": "Dagas"
+  },
+  "T4_MAIN_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Fuego (T4)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T4_MAIN_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hielo (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_MAIN_FROSTSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Escarcha (T4)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T4_MAIN_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo (T4)",
+    "sub_category": "Martillos"
+  },
+  "T4_MAIN_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Sagrado (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_MAIN_HOLYSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Vida (T4)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T4_MAIN_MACE": {
+    "category": "Weapon",
+    "name": "Maza (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_MAIN_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Incubus (T4)",
+    "sub_category": "Mazas"
+  },
+  "T4_MAIN_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Natural (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_MAIN_NATURESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Druida (T4)",
+    "sub_category": "Bastón Natural"
+  },
+  "T4_MAIN_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hierro (T4)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T4_MAIN_SHAPESHIFTER_PANTHER": {
+    "category": "Weapon",
+    "name": "Pantera (T4)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T4_MAIN_SPEAR": {
+    "category": "Weapon",
+    "name": "Lanza (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_MAIN_SPEAR_KEEPER": {
+    "category": "Weapon",
+    "name": "Garzas (T4)",
+    "sub_category": "Lanzas"
+  },
+  "T4_MAIN_SWORD": {
+    "category": "Weapon",
+    "name": "Espada Ancha (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_MAIN_SWORD_KEEPER": {
+    "category": "Weapon",
+    "name": "Hoja de Clarent (T4)",
+    "sub_category": "Espadas"
+  },
+  "T4_MAIN_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Pelea (T4)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T4_METALBAR": {
+    "category": "Resource",
+    "name": "Lingote de Metal (T4)",
+    "sub_category": "Recurso"
+  },
+  "T4_MOUNT_HORSE": {
+    "category": "Mount",
+    "name": "Caballo (T4)",
+    "sub_category": "Caballo"
+  },
+  "T4_MOUNT_OX": {
+    "category": "Mount",
+    "name": "Buey (T4)",
+    "sub_category": "Buey"
+  },
+  "T4_PLANKS": {
+    "category": "Resource",
+    "name": "Tablas (T4)",
+    "sub_category": "Recurso"
+  },
+  "T4_SHOES_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Botas de Erudito (T4)",
+    "sub_category": "Erudito"
+  },
+  "T4_SHOES_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Botas de Clerigo (T4)",
+    "sub_category": "Clerigo"
+  },
+  "T4_SHOES_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Botas de Mercenario (T4)",
+    "sub_category": "Mercenario"
+  },
+  "T4_SHOES_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Botas de Cazador (T4)",
+    "sub_category": "Cazador"
+  },
+  "T4_SHOES_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Botas de Soldado (T4)",
+    "sub_category": "Soldado"
+  },
+  "T4_SHOES_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Botas de Caballero (T4)",
+    "sub_category": "Caballero"
+  },
+  "T4_STONEBLOCK": {
+    "category": "Resource",
+    "name": "Bloque de Piedra (T4)",
+    "sub_category": "Recurso"
+  },
+  "T5_2H_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_2H_ARCANESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Infinitum (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_2H_ARCANESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Ocultismo (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_2H_ARCANESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Malevolencia (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_2H_AXE": {
+    "category": "Weapon",
+    "name": "Gran Hacha (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_AXE_AVALON": {
+    "category": "Weapon",
+    "name": "Rompeteinos (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_AXE_KEEPER": {
+    "category": "Weapon",
+    "name": "Carroña (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_BEARPAWS": {
+    "category": "Weapon",
+    "name": "Patas de Oso (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_BOW_AVALON": {
+    "category": "Weapon",
+    "name": "Lucent Hawk (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_BOW_HELL": {
+    "category": "Weapon",
+    "name": "Arco de Badon (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_BOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Susurrante (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_BOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Perforanieblas (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_CLAWSSPELL": {
+    "category": "Weapon",
+    "name": "Garras (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_2H_CLAYMORE": {
+    "category": "Weapon",
+    "name": "Claymore (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_2H_CLAYMORE_AVALON": {
+    "category": "Weapon",
+    "name": "Rey (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_2H_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Pesada (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_2H_CROSSBOW_AVALON": {
+    "category": "Weapon",
+    "name": "Avaloniana (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_2H_CROSSBOW_LARGE": {
+    "category": "Weapon",
+    "name": "Ballesta Repetidora (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_2H_CROSSBOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Ballesta de Cristal (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_2H_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_2H_CURSESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_2H_CURSESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Vida (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_2H_CURSESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Sombra (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_2H_DAGGERPAIR": {
+    "category": "Weapon",
+    "name": "Dagas en Par (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_2H_DAGGER_AVALON": {
+    "category": "Weapon",
+    "name": "Deathgivers (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_2H_DAGGER_HELL": {
+    "category": "Weapon",
+    "name": "Sedienta de Sangre (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_2H_DAGGER_MORGANA": {
+    "category": "Weapon",
+    "name": "Segadora de Almas (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_2H_DEMONICSTAFF": {
+    "category": "Weapon",
+    "name": "Demoníaco (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_2H_DIVINESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Divino (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_2H_DUALHAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Mano de Justicia (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_DUALSWORD": {
+    "category": "Weapon",
+    "name": "Espadas Dobles (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_2H_DUALSWORD_HELL": {
+    "category": "Weapon",
+    "name": "Galatinas (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_2H_ENIGMATICSTAFF": {
+    "category": "Weapon",
+    "name": "Enigmático (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_2H_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón de Fuego (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_FIRESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Llamas (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_FIRESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Sulfúrico (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_FIRESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bastón Salvaje (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_FIRESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ardiente (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_FLAIL": {
+    "category": "Weapon",
+    "name": "Lucero del Alba (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_2H_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_2H_FROSTSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Chill (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_2H_FROSTSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Hoary (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_2H_FROSTSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Permafrost (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_2H_GLACIALSTAFF": {
+    "category": "Weapon",
+    "name": "Glacial (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_2H_GLAIVE": {
+    "category": "Weapon",
+    "name": "Guadaña (Glaive) (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_2H_HALBERD": {
+    "category": "Weapon",
+    "name": "Alabarda (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo Grande (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_HAMMER_AVALON": {
+    "category": "Weapon",
+    "name": "Vigilante (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_HAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Martillo de la Forja (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_HAMMER_KEEPER": {
+    "category": "Weapon",
+    "name": "Martillo de Tumba (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_HARPOON": {
+    "category": "Weapon",
+    "name": "Espontón (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_2H_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón Sagrado (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_2H_HOLYSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Hallowfall (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_2H_HOLYSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Caído (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_2H_HOLYSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Redención (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_2H_INFERNOSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Infernal (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_2H_IRONCLADSTAFF": {
+    "category": "Weapon",
+    "name": "Grial (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_LONGBOW": {
+    "category": "Weapon",
+    "name": "Arco Largo (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_MACE": {
+    "category": "Weapon",
+    "name": "Maza Pesada (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_2H_MACE_AVALON": {
+    "category": "Weapon",
+    "name": "Guardián del Juramento (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_2H_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Camlann (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_2H_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_2H_NATURESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Espinas (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_2H_NATURESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Plaga (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_2H_NATURESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ironroot (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_2H_POLEHAMMER": {
+    "category": "Weapon",
+    "name": "Martillo de Polo (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_2H_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Monje Negro (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_QUARTERSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_QUARTERSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Almas (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_QUARTERSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Equilibrio (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_QUARTERSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Buscador de Dobles (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_2H_REPEATINGCROSSBOW_HELL": {
+    "category": "Weapon",
+    "name": "Ballesta de Asedio (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_2H_ROCKMACE_KEEPER": {
+    "category": "Weapon",
+    "name": "Maza de Roca (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_2H_SCIMITAR_MORGANA": {
+    "category": "Weapon",
+    "name": "Espada Tallada (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_2H_SCYTHE_HELL": {
+    "category": "Weapon",
+    "name": "Guadaña Infernal (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_2H_SHAPESHIFTER_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SHAPESHIFTER_BEAR": {
+    "category": "Weapon",
+    "name": "Oso (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SHAPESHIFTER_EAGLE": {
+    "category": "Weapon",
+    "name": "Águila (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SHAPESHIFTER_GOLEM": {
+    "category": "Weapon",
+    "name": "Golem (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SHAPESHIFTER_TREANT": {
+    "category": "Weapon",
+    "name": "Sylvian (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SHAPESHIFTER_WEREWOLF": {
+    "category": "Weapon",
+    "name": "Luna de Sangre (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_2H_SPEAR": {
+    "category": "Weapon",
+    "name": "Pica (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_2H_SPEAR_AVALON": {
+    "category": "Weapon",
+    "name": "Amanecer (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_2H_SPEAR_HELL": {
+    "category": "Weapon",
+    "name": "Trinidad (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_2H_WARBOW": {
+    "category": "Weapon",
+    "name": "Arco de Guerra (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_2H_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Batalla (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WARGLOVE_AVALON": {
+    "category": "Weapon",
+    "name": "Avalona (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WARGLOVE_HELL": {
+    "category": "Weapon",
+    "name": "Cuervo (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WARGLOVE_KEEPER": {
+    "category": "Weapon",
+    "name": "Ursine (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WARGLOVE_MORGANA": {
+    "category": "Weapon",
+    "name": "Hellfire (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WARGLOVE_SPIKE": {
+    "category": "Weapon",
+    "name": "Guantes de Púas (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_2H_WILDSTAFF": {
+    "category": "Weapon",
+    "name": "Salvaje (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_ARMOR_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Peto de Erudito (T5)",
+    "sub_category": "Erudito"
+  },
+  "T5_ARMOR_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Peto de Clerigo (T5)",
+    "sub_category": "Clerigo"
+  },
+  "T5_ARMOR_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Peto de Mercenario (T5)",
+    "sub_category": "Mercenario"
+  },
+  "T5_ARMOR_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Peto de Cazador (T5)",
+    "sub_category": "Cazador"
+  },
+  "T5_ARMOR_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Peto de Soldado (T5)",
+    "sub_category": "Soldado"
+  },
+  "T5_ARMOR_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Peto de Caballero (T5)",
+    "sub_category": "Caballero"
+  },
+  "T5_BAG": {
+    "category": "Accessory",
+    "name": "Bolso (T5)",
+    "sub_category": "Bolso"
+  },
+  "T5_CAPE": {
+    "category": "Accessory",
+    "name": "Capa (T5)",
+    "sub_category": "Capa"
+  },
+  "T5_CLOTH": {
+    "category": "Resource",
+    "name": "Tela (T5)",
+    "sub_category": "Recurso"
+  },
+  "T5_HEAD_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Casco de Erudito (T5)",
+    "sub_category": "Erudito"
+  },
+  "T5_HEAD_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Casco de Clerigo (T5)",
+    "sub_category": "Clerigo"
+  },
+  "T5_HEAD_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Casco de Mercenario (T5)",
+    "sub_category": "Mercenario"
+  },
+  "T5_HEAD_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Casco de Cazador (T5)",
+    "sub_category": "Cazador"
+  },
+  "T5_HEAD_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Casco de Soldado (T5)",
+    "sub_category": "Soldado"
+  },
+  "T5_HEAD_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Casco de Caballero (T5)",
+    "sub_category": "Caballero"
+  },
+  "T5_LEATHER": {
+    "category": "Resource",
+    "name": "Cuero (T5)",
+    "sub_category": "Recurso"
+  },
+  "T5_MAIN_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Arcano (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_MAIN_ARCANESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bruja (T5)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T5_MAIN_AXE": {
+    "category": "Weapon",
+    "name": "Hacha de Batalla (T5)",
+    "sub_category": "Hachas"
+  },
+  "T5_MAIN_BOW": {
+    "category": "Weapon",
+    "name": "Arco (T5)",
+    "sub_category": "Arcos"
+  },
+  "T5_MAIN_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Ligera (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_MAIN_CROSSBOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Tirador de Saetas (T5)",
+    "sub_category": "Ballestas"
+  },
+  "T5_MAIN_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Maldito (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_MAIN_CURSESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Calavera (T5)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T5_MAIN_DAGGER": {
+    "category": "Weapon",
+    "name": "Daga (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_MAIN_DAGGER_KEEPER": {
+    "category": "Weapon",
+    "name": "Colmillos (T5)",
+    "sub_category": "Dagas"
+  },
+  "T5_MAIN_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Fuego (T5)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T5_MAIN_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hielo (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_MAIN_FROSTSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Escarcha (T5)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T5_MAIN_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo (T5)",
+    "sub_category": "Martillos"
+  },
+  "T5_MAIN_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Sagrado (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_MAIN_HOLYSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Vida (T5)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T5_MAIN_MACE": {
+    "category": "Weapon",
+    "name": "Maza (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_MAIN_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Incubus (T5)",
+    "sub_category": "Mazas"
+  },
+  "T5_MAIN_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Natural (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_MAIN_NATURESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Druida (T5)",
+    "sub_category": "Bastón Natural"
+  },
+  "T5_MAIN_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hierro (T5)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T5_MAIN_SHAPESHIFTER_PANTHER": {
+    "category": "Weapon",
+    "name": "Pantera (T5)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T5_MAIN_SPEAR": {
+    "category": "Weapon",
+    "name": "Lanza (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_MAIN_SPEAR_KEEPER": {
+    "category": "Weapon",
+    "name": "Garzas (T5)",
+    "sub_category": "Lanzas"
+  },
+  "T5_MAIN_SWORD": {
+    "category": "Weapon",
+    "name": "Espada Ancha (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_MAIN_SWORD_KEEPER": {
+    "category": "Weapon",
+    "name": "Hoja de Clarent (T5)",
+    "sub_category": "Espadas"
+  },
+  "T5_MAIN_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Pelea (T5)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T5_METALBAR": {
+    "category": "Resource",
+    "name": "Lingote de Metal (T5)",
+    "sub_category": "Recurso"
+  },
+  "T5_MOUNT_HORSE": {
+    "category": "Mount",
+    "name": "Caballo (T5)",
+    "sub_category": "Caballo"
+  },
+  "T5_MOUNT_OX": {
+    "category": "Mount",
+    "name": "Buey (T5)",
+    "sub_category": "Buey"
+  },
+  "T5_PLANKS": {
+    "category": "Resource",
+    "name": "Tablas (T5)",
+    "sub_category": "Recurso"
+  },
+  "T5_SHOES_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Botas de Erudito (T5)",
+    "sub_category": "Erudito"
+  },
+  "T5_SHOES_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Botas de Clerigo (T5)",
+    "sub_category": "Clerigo"
+  },
+  "T5_SHOES_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Botas de Mercenario (T5)",
+    "sub_category": "Mercenario"
+  },
+  "T5_SHOES_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Botas de Cazador (T5)",
+    "sub_category": "Cazador"
+  },
+  "T5_SHOES_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Botas de Soldado (T5)",
+    "sub_category": "Soldado"
+  },
+  "T5_SHOES_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Botas de Caballero (T5)",
+    "sub_category": "Caballero"
+  },
+  "T5_STONEBLOCK": {
+    "category": "Resource",
+    "name": "Bloque de Piedra (T5)",
+    "sub_category": "Recurso"
+  },
+  "T6_2H_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_2H_ARCANESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Infinitum (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_2H_ARCANESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Ocultismo (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_2H_ARCANESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Malevolencia (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_2H_AXE": {
+    "category": "Weapon",
+    "name": "Gran Hacha (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_AXE_AVALON": {
+    "category": "Weapon",
+    "name": "Rompeteinos (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_AXE_KEEPER": {
+    "category": "Weapon",
+    "name": "Carroña (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_BEARPAWS": {
+    "category": "Weapon",
+    "name": "Patas de Oso (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_BOW_AVALON": {
+    "category": "Weapon",
+    "name": "Lucent Hawk (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_BOW_HELL": {
+    "category": "Weapon",
+    "name": "Arco de Badon (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_BOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Susurrante (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_BOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Perforanieblas (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_CLAWSSPELL": {
+    "category": "Weapon",
+    "name": "Garras (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_2H_CLAYMORE": {
+    "category": "Weapon",
+    "name": "Claymore (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_2H_CLAYMORE_AVALON": {
+    "category": "Weapon",
+    "name": "Rey (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_2H_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Pesada (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_2H_CROSSBOW_AVALON": {
+    "category": "Weapon",
+    "name": "Avaloniana (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_2H_CROSSBOW_LARGE": {
+    "category": "Weapon",
+    "name": "Ballesta Repetidora (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_2H_CROSSBOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Ballesta de Cristal (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_2H_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_2H_CURSESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_2H_CURSESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Vida (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_2H_CURSESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Sombra (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_2H_DAGGERPAIR": {
+    "category": "Weapon",
+    "name": "Dagas en Par (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_2H_DAGGER_AVALON": {
+    "category": "Weapon",
+    "name": "Deathgivers (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_2H_DAGGER_HELL": {
+    "category": "Weapon",
+    "name": "Sedienta de Sangre (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_2H_DAGGER_MORGANA": {
+    "category": "Weapon",
+    "name": "Segadora de Almas (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_2H_DEMONICSTAFF": {
+    "category": "Weapon",
+    "name": "Demoníaco (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_2H_DIVINESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Divino (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_2H_DUALHAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Mano de Justicia (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_DUALSWORD": {
+    "category": "Weapon",
+    "name": "Espadas Dobles (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_2H_DUALSWORD_HELL": {
+    "category": "Weapon",
+    "name": "Galatinas (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_2H_ENIGMATICSTAFF": {
+    "category": "Weapon",
+    "name": "Enigmático (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_2H_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón de Fuego (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_FIRESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Llamas (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_FIRESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Sulfúrico (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_FIRESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bastón Salvaje (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_FIRESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ardiente (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_FLAIL": {
+    "category": "Weapon",
+    "name": "Lucero del Alba (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_2H_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_2H_FROSTSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Chill (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_2H_FROSTSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Hoary (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_2H_FROSTSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Permafrost (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_2H_GLACIALSTAFF": {
+    "category": "Weapon",
+    "name": "Glacial (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_2H_GLAIVE": {
+    "category": "Weapon",
+    "name": "Guadaña (Glaive) (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_2H_HALBERD": {
+    "category": "Weapon",
+    "name": "Alabarda (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo Grande (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_HAMMER_AVALON": {
+    "category": "Weapon",
+    "name": "Vigilante (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_HAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Martillo de la Forja (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_HAMMER_KEEPER": {
+    "category": "Weapon",
+    "name": "Martillo de Tumba (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_HARPOON": {
+    "category": "Weapon",
+    "name": "Espontón (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_2H_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón Sagrado (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_2H_HOLYSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Hallowfall (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_2H_HOLYSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Caído (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_2H_HOLYSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Redención (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_2H_INFERNOSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Infernal (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_2H_IRONCLADSTAFF": {
+    "category": "Weapon",
+    "name": "Grial (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_LONGBOW": {
+    "category": "Weapon",
+    "name": "Arco Largo (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_MACE": {
+    "category": "Weapon",
+    "name": "Maza Pesada (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_2H_MACE_AVALON": {
+    "category": "Weapon",
+    "name": "Guardián del Juramento (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_2H_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Camlann (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_2H_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_2H_NATURESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Espinas (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_2H_NATURESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Plaga (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_2H_NATURESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ironroot (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_2H_POLEHAMMER": {
+    "category": "Weapon",
+    "name": "Martillo de Polo (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_2H_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Monje Negro (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_QUARTERSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_QUARTERSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Almas (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_QUARTERSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Equilibrio (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_QUARTERSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Buscador de Dobles (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_2H_REPEATINGCROSSBOW_HELL": {
+    "category": "Weapon",
+    "name": "Ballesta de Asedio (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_2H_ROCKMACE_KEEPER": {
+    "category": "Weapon",
+    "name": "Maza de Roca (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_2H_SCIMITAR_MORGANA": {
+    "category": "Weapon",
+    "name": "Espada Tallada (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_2H_SCYTHE_HELL": {
+    "category": "Weapon",
+    "name": "Guadaña Infernal (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_2H_SHAPESHIFTER_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SHAPESHIFTER_BEAR": {
+    "category": "Weapon",
+    "name": "Oso (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SHAPESHIFTER_EAGLE": {
+    "category": "Weapon",
+    "name": "Águila (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SHAPESHIFTER_GOLEM": {
+    "category": "Weapon",
+    "name": "Golem (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SHAPESHIFTER_TREANT": {
+    "category": "Weapon",
+    "name": "Sylvian (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SHAPESHIFTER_WEREWOLF": {
+    "category": "Weapon",
+    "name": "Luna de Sangre (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_2H_SPEAR": {
+    "category": "Weapon",
+    "name": "Pica (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_2H_SPEAR_AVALON": {
+    "category": "Weapon",
+    "name": "Amanecer (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_2H_SPEAR_HELL": {
+    "category": "Weapon",
+    "name": "Trinidad (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_2H_WARBOW": {
+    "category": "Weapon",
+    "name": "Arco de Guerra (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_2H_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Batalla (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WARGLOVE_AVALON": {
+    "category": "Weapon",
+    "name": "Avalona (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WARGLOVE_HELL": {
+    "category": "Weapon",
+    "name": "Cuervo (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WARGLOVE_KEEPER": {
+    "category": "Weapon",
+    "name": "Ursine (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WARGLOVE_MORGANA": {
+    "category": "Weapon",
+    "name": "Hellfire (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WARGLOVE_SPIKE": {
+    "category": "Weapon",
+    "name": "Guantes de Púas (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_2H_WILDSTAFF": {
+    "category": "Weapon",
+    "name": "Salvaje (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_ARMOR_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Peto de Erudito (T6)",
+    "sub_category": "Erudito"
+  },
+  "T6_ARMOR_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Peto de Clerigo (T6)",
+    "sub_category": "Clerigo"
+  },
+  "T6_ARMOR_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Peto de Mercenario (T6)",
+    "sub_category": "Mercenario"
+  },
+  "T6_ARMOR_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Peto de Cazador (T6)",
+    "sub_category": "Cazador"
+  },
+  "T6_ARMOR_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Peto de Soldado (T6)",
+    "sub_category": "Soldado"
+  },
+  "T6_ARMOR_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Peto de Caballero (T6)",
+    "sub_category": "Caballero"
+  },
+  "T6_BAG": {
+    "category": "Accessory",
+    "name": "Bolso (T6)",
+    "sub_category": "Bolso"
+  },
+  "T6_CAPE": {
+    "category": "Accessory",
+    "name": "Capa (T6)",
+    "sub_category": "Capa"
+  },
+  "T6_CLOTH": {
+    "category": "Resource",
+    "name": "Tela (T6)",
+    "sub_category": "Recurso"
+  },
+  "T6_HEAD_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Casco de Erudito (T6)",
+    "sub_category": "Erudito"
+  },
+  "T6_HEAD_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Casco de Clerigo (T6)",
+    "sub_category": "Clerigo"
+  },
+  "T6_HEAD_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Casco de Mercenario (T6)",
+    "sub_category": "Mercenario"
+  },
+  "T6_HEAD_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Casco de Cazador (T6)",
+    "sub_category": "Cazador"
+  },
+  "T6_HEAD_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Casco de Soldado (T6)",
+    "sub_category": "Soldado"
+  },
+  "T6_HEAD_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Casco de Caballero (T6)",
+    "sub_category": "Caballero"
+  },
+  "T6_LEATHER": {
+    "category": "Resource",
+    "name": "Cuero (T6)",
+    "sub_category": "Recurso"
+  },
+  "T6_MAIN_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Arcano (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_MAIN_ARCANESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bruja (T6)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T6_MAIN_AXE": {
+    "category": "Weapon",
+    "name": "Hacha de Batalla (T6)",
+    "sub_category": "Hachas"
+  },
+  "T6_MAIN_BOW": {
+    "category": "Weapon",
+    "name": "Arco (T6)",
+    "sub_category": "Arcos"
+  },
+  "T6_MAIN_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Ligera (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_MAIN_CROSSBOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Tirador de Saetas (T6)",
+    "sub_category": "Ballestas"
+  },
+  "T6_MAIN_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Maldito (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_MAIN_CURSESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Calavera (T6)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T6_MAIN_DAGGER": {
+    "category": "Weapon",
+    "name": "Daga (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_MAIN_DAGGER_KEEPER": {
+    "category": "Weapon",
+    "name": "Colmillos (T6)",
+    "sub_category": "Dagas"
+  },
+  "T6_MAIN_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Fuego (T6)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T6_MAIN_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hielo (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_MAIN_FROSTSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Escarcha (T6)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T6_MAIN_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo (T6)",
+    "sub_category": "Martillos"
+  },
+  "T6_MAIN_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Sagrado (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_MAIN_HOLYSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Vida (T6)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T6_MAIN_MACE": {
+    "category": "Weapon",
+    "name": "Maza (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_MAIN_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Incubus (T6)",
+    "sub_category": "Mazas"
+  },
+  "T6_MAIN_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Natural (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_MAIN_NATURESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Druida (T6)",
+    "sub_category": "Bastón Natural"
+  },
+  "T6_MAIN_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hierro (T6)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T6_MAIN_SHAPESHIFTER_PANTHER": {
+    "category": "Weapon",
+    "name": "Pantera (T6)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T6_MAIN_SPEAR": {
+    "category": "Weapon",
+    "name": "Lanza (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_MAIN_SPEAR_KEEPER": {
+    "category": "Weapon",
+    "name": "Garzas (T6)",
+    "sub_category": "Lanzas"
+  },
+  "T6_MAIN_SWORD": {
+    "category": "Weapon",
+    "name": "Espada Ancha (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_MAIN_SWORD_KEEPER": {
+    "category": "Weapon",
+    "name": "Hoja de Clarent (T6)",
+    "sub_category": "Espadas"
+  },
+  "T6_MAIN_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Pelea (T6)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T6_METALBAR": {
+    "category": "Resource",
+    "name": "Lingote de Metal (T6)",
+    "sub_category": "Recurso"
+  },
+  "T6_MOUNT_HORSE": {
+    "category": "Mount",
+    "name": "Caballo (T6)",
+    "sub_category": "Caballo"
+  },
+  "T6_MOUNT_OX": {
+    "category": "Mount",
+    "name": "Buey (T6)",
+    "sub_category": "Buey"
+  },
+  "T6_PLANKS": {
+    "category": "Resource",
+    "name": "Tablas (T6)",
+    "sub_category": "Recurso"
+  },
+  "T6_SHOES_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Botas de Erudito (T6)",
+    "sub_category": "Erudito"
+  },
+  "T6_SHOES_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Botas de Clerigo (T6)",
+    "sub_category": "Clerigo"
+  },
+  "T6_SHOES_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Botas de Mercenario (T6)",
+    "sub_category": "Mercenario"
+  },
+  "T6_SHOES_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Botas de Cazador (T6)",
+    "sub_category": "Cazador"
+  },
+  "T6_SHOES_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Botas de Soldado (T6)",
+    "sub_category": "Soldado"
+  },
+  "T6_SHOES_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Botas de Caballero (T6)",
+    "sub_category": "Caballero"
+  },
+  "T6_STONEBLOCK": {
+    "category": "Resource",
+    "name": "Bloque de Piedra (T6)",
+    "sub_category": "Recurso"
+  },
+  "T7_2H_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_2H_ARCANESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Infinitum (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_2H_ARCANESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Ocultismo (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_2H_ARCANESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Malevolencia (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_2H_AXE": {
+    "category": "Weapon",
+    "name": "Gran Hacha (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_AXE_AVALON": {
+    "category": "Weapon",
+    "name": "Rompeteinos (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_AXE_KEEPER": {
+    "category": "Weapon",
+    "name": "Carroña (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_BEARPAWS": {
+    "category": "Weapon",
+    "name": "Patas de Oso (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_BOW_AVALON": {
+    "category": "Weapon",
+    "name": "Lucent Hawk (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_BOW_HELL": {
+    "category": "Weapon",
+    "name": "Arco de Badon (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_BOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Susurrante (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_BOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Perforanieblas (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_CLAWSSPELL": {
+    "category": "Weapon",
+    "name": "Garras (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_2H_CLAYMORE": {
+    "category": "Weapon",
+    "name": "Claymore (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_2H_CLAYMORE_AVALON": {
+    "category": "Weapon",
+    "name": "Rey (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_2H_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Pesada (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_2H_CROSSBOW_AVALON": {
+    "category": "Weapon",
+    "name": "Avaloniana (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_2H_CROSSBOW_LARGE": {
+    "category": "Weapon",
+    "name": "Ballesta Repetidora (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_2H_CROSSBOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Ballesta de Cristal (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_2H_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_2H_CURSESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_2H_CURSESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Vida (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_2H_CURSESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Sombra (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_2H_DAGGERPAIR": {
+    "category": "Weapon",
+    "name": "Dagas en Par (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_2H_DAGGER_AVALON": {
+    "category": "Weapon",
+    "name": "Deathgivers (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_2H_DAGGER_HELL": {
+    "category": "Weapon",
+    "name": "Sedienta de Sangre (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_2H_DAGGER_MORGANA": {
+    "category": "Weapon",
+    "name": "Segadora de Almas (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_2H_DEMONICSTAFF": {
+    "category": "Weapon",
+    "name": "Demoníaco (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_2H_DIVINESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Divino (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_2H_DUALHAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Mano de Justicia (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_DUALSWORD": {
+    "category": "Weapon",
+    "name": "Espadas Dobles (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_2H_DUALSWORD_HELL": {
+    "category": "Weapon",
+    "name": "Galatinas (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_2H_ENIGMATICSTAFF": {
+    "category": "Weapon",
+    "name": "Enigmático (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_2H_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón de Fuego (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_FIRESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Llamas (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_FIRESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Sulfúrico (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_FIRESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bastón Salvaje (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_FIRESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ardiente (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_FLAIL": {
+    "category": "Weapon",
+    "name": "Lucero del Alba (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_2H_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_2H_FROSTSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Chill (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_2H_FROSTSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Hoary (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_2H_FROSTSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Permafrost (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_2H_GLACIALSTAFF": {
+    "category": "Weapon",
+    "name": "Glacial (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_2H_GLAIVE": {
+    "category": "Weapon",
+    "name": "Guadaña (Glaive) (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_2H_HALBERD": {
+    "category": "Weapon",
+    "name": "Alabarda (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo Grande (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_HAMMER_AVALON": {
+    "category": "Weapon",
+    "name": "Vigilante (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_HAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Martillo de la Forja (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_HAMMER_KEEPER": {
+    "category": "Weapon",
+    "name": "Martillo de Tumba (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_HARPOON": {
+    "category": "Weapon",
+    "name": "Espontón (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_2H_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón Sagrado (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_2H_HOLYSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Hallowfall (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_2H_HOLYSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Caído (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_2H_HOLYSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Redención (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_2H_INFERNOSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Infernal (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_2H_IRONCLADSTAFF": {
+    "category": "Weapon",
+    "name": "Grial (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_LONGBOW": {
+    "category": "Weapon",
+    "name": "Arco Largo (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_MACE": {
+    "category": "Weapon",
+    "name": "Maza Pesada (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_2H_MACE_AVALON": {
+    "category": "Weapon",
+    "name": "Guardián del Juramento (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_2H_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Camlann (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_2H_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_2H_NATURESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Espinas (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_2H_NATURESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Plaga (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_2H_NATURESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ironroot (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_2H_POLEHAMMER": {
+    "category": "Weapon",
+    "name": "Martillo de Polo (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_2H_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Monje Negro (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_QUARTERSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_QUARTERSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Almas (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_QUARTERSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Equilibrio (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_QUARTERSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Buscador de Dobles (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_2H_REPEATINGCROSSBOW_HELL": {
+    "category": "Weapon",
+    "name": "Ballesta de Asedio (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_2H_ROCKMACE_KEEPER": {
+    "category": "Weapon",
+    "name": "Maza de Roca (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_2H_SCIMITAR_MORGANA": {
+    "category": "Weapon",
+    "name": "Espada Tallada (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_2H_SCYTHE_HELL": {
+    "category": "Weapon",
+    "name": "Guadaña Infernal (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_2H_SHAPESHIFTER_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SHAPESHIFTER_BEAR": {
+    "category": "Weapon",
+    "name": "Oso (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SHAPESHIFTER_EAGLE": {
+    "category": "Weapon",
+    "name": "Águila (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SHAPESHIFTER_GOLEM": {
+    "category": "Weapon",
+    "name": "Golem (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SHAPESHIFTER_TREANT": {
+    "category": "Weapon",
+    "name": "Sylvian (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SHAPESHIFTER_WEREWOLF": {
+    "category": "Weapon",
+    "name": "Luna de Sangre (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_2H_SPEAR": {
+    "category": "Weapon",
+    "name": "Pica (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_2H_SPEAR_AVALON": {
+    "category": "Weapon",
+    "name": "Amanecer (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_2H_SPEAR_HELL": {
+    "category": "Weapon",
+    "name": "Trinidad (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_2H_WARBOW": {
+    "category": "Weapon",
+    "name": "Arco de Guerra (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_2H_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Batalla (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WARGLOVE_AVALON": {
+    "category": "Weapon",
+    "name": "Avalona (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WARGLOVE_HELL": {
+    "category": "Weapon",
+    "name": "Cuervo (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WARGLOVE_KEEPER": {
+    "category": "Weapon",
+    "name": "Ursine (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WARGLOVE_MORGANA": {
+    "category": "Weapon",
+    "name": "Hellfire (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WARGLOVE_SPIKE": {
+    "category": "Weapon",
+    "name": "Guantes de Púas (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_2H_WILDSTAFF": {
+    "category": "Weapon",
+    "name": "Salvaje (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_ARMOR_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Peto de Erudito (T7)",
+    "sub_category": "Erudito"
+  },
+  "T7_ARMOR_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Peto de Clerigo (T7)",
+    "sub_category": "Clerigo"
+  },
+  "T7_ARMOR_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Peto de Mercenario (T7)",
+    "sub_category": "Mercenario"
+  },
+  "T7_ARMOR_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Peto de Cazador (T7)",
+    "sub_category": "Cazador"
+  },
+  "T7_ARMOR_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Peto de Soldado (T7)",
+    "sub_category": "Soldado"
+  },
+  "T7_ARMOR_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Peto de Caballero (T7)",
+    "sub_category": "Caballero"
+  },
+  "T7_BAG": {
+    "category": "Accessory",
+    "name": "Bolso (T7)",
+    "sub_category": "Bolso"
+  },
+  "T7_CAPE": {
+    "category": "Accessory",
+    "name": "Capa (T7)",
+    "sub_category": "Capa"
+  },
+  "T7_CLOTH": {
+    "category": "Resource",
+    "name": "Tela (T7)",
+    "sub_category": "Recurso"
+  },
+  "T7_HEAD_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Casco de Erudito (T7)",
+    "sub_category": "Erudito"
+  },
+  "T7_HEAD_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Casco de Clerigo (T7)",
+    "sub_category": "Clerigo"
+  },
+  "T7_HEAD_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Casco de Mercenario (T7)",
+    "sub_category": "Mercenario"
+  },
+  "T7_HEAD_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Casco de Cazador (T7)",
+    "sub_category": "Cazador"
+  },
+  "T7_HEAD_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Casco de Soldado (T7)",
+    "sub_category": "Soldado"
+  },
+  "T7_HEAD_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Casco de Caballero (T7)",
+    "sub_category": "Caballero"
+  },
+  "T7_LEATHER": {
+    "category": "Resource",
+    "name": "Cuero (T7)",
+    "sub_category": "Recurso"
+  },
+  "T7_MAIN_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Arcano (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_MAIN_ARCANESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bruja (T7)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T7_MAIN_AXE": {
+    "category": "Weapon",
+    "name": "Hacha de Batalla (T7)",
+    "sub_category": "Hachas"
+  },
+  "T7_MAIN_BOW": {
+    "category": "Weapon",
+    "name": "Arco (T7)",
+    "sub_category": "Arcos"
+  },
+  "T7_MAIN_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Ligera (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_MAIN_CROSSBOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Tirador de Saetas (T7)",
+    "sub_category": "Ballestas"
+  },
+  "T7_MAIN_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Maldito (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_MAIN_CURSESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Calavera (T7)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T7_MAIN_DAGGER": {
+    "category": "Weapon",
+    "name": "Daga (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_MAIN_DAGGER_KEEPER": {
+    "category": "Weapon",
+    "name": "Colmillos (T7)",
+    "sub_category": "Dagas"
+  },
+  "T7_MAIN_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Fuego (T7)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T7_MAIN_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hielo (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_MAIN_FROSTSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Escarcha (T7)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T7_MAIN_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo (T7)",
+    "sub_category": "Martillos"
+  },
+  "T7_MAIN_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Sagrado (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_MAIN_HOLYSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Vida (T7)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T7_MAIN_MACE": {
+    "category": "Weapon",
+    "name": "Maza (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_MAIN_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Incubus (T7)",
+    "sub_category": "Mazas"
+  },
+  "T7_MAIN_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Natural (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_MAIN_NATURESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Druida (T7)",
+    "sub_category": "Bastón Natural"
+  },
+  "T7_MAIN_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hierro (T7)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T7_MAIN_SHAPESHIFTER_PANTHER": {
+    "category": "Weapon",
+    "name": "Pantera (T7)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T7_MAIN_SPEAR": {
+    "category": "Weapon",
+    "name": "Lanza (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_MAIN_SPEAR_KEEPER": {
+    "category": "Weapon",
+    "name": "Garzas (T7)",
+    "sub_category": "Lanzas"
+  },
+  "T7_MAIN_SWORD": {
+    "category": "Weapon",
+    "name": "Espada Ancha (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_MAIN_SWORD_KEEPER": {
+    "category": "Weapon",
+    "name": "Hoja de Clarent (T7)",
+    "sub_category": "Espadas"
+  },
+  "T7_MAIN_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Pelea (T7)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T7_METALBAR": {
+    "category": "Resource",
+    "name": "Lingote de Metal (T7)",
+    "sub_category": "Recurso"
+  },
+  "T7_MOUNT_HORSE": {
+    "category": "Mount",
+    "name": "Caballo (T7)",
+    "sub_category": "Caballo"
+  },
+  "T7_MOUNT_OX": {
+    "category": "Mount",
+    "name": "Buey (T7)",
+    "sub_category": "Buey"
+  },
+  "T7_PLANKS": {
+    "category": "Resource",
+    "name": "Tablas (T7)",
+    "sub_category": "Recurso"
+  },
+  "T7_POTION_HEAL": {
+    "category": "Consumable",
+    "name": "Poción de sanación (T7)",
+    "sub_category": "Poción"
+  },
+  "T7_SHOES_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Botas de Erudito (T7)",
+    "sub_category": "Erudito"
+  },
+  "T7_SHOES_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Botas de Clerigo (T7)",
+    "sub_category": "Clerigo"
+  },
+  "T7_SHOES_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Botas de Mercenario (T7)",
+    "sub_category": "Mercenario"
+  },
+  "T7_SHOES_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Botas de Cazador (T7)",
+    "sub_category": "Cazador"
+  },
+  "T7_SHOES_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Botas de Soldado (T7)",
+    "sub_category": "Soldado"
+  },
+  "T7_SHOES_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Botas de Caballero (T7)",
+    "sub_category": "Caballero"
+  },
+  "T7_STONEBLOCK": {
+    "category": "Resource",
+    "name": "Bloque de Piedra (T7)",
+    "sub_category": "Recurso"
+  },
+  "T8_2H_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_2H_ARCANESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Infinitum (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_2H_ARCANESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Ocultismo (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_2H_ARCANESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Malevolencia (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_2H_AXE": {
+    "category": "Weapon",
+    "name": "Gran Hacha (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_AXE_AVALON": {
+    "category": "Weapon",
+    "name": "Rompeteinos (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_AXE_KEEPER": {
+    "category": "Weapon",
+    "name": "Carroña (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_BEARPAWS": {
+    "category": "Weapon",
+    "name": "Patas de Oso (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_BOW_AVALON": {
+    "category": "Weapon",
+    "name": "Lucent Hawk (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_BOW_HELL": {
+    "category": "Weapon",
+    "name": "Arco de Badon (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_BOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Susurrante (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_BOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Perforanieblas (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_CLAWSSPELL": {
+    "category": "Weapon",
+    "name": "Garras (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_2H_CLAYMORE": {
+    "category": "Weapon",
+    "name": "Claymore (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_2H_CLAYMORE_AVALON": {
+    "category": "Weapon",
+    "name": "Rey (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_2H_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Pesada (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_2H_CROSSBOW_AVALON": {
+    "category": "Weapon",
+    "name": "Avaloniana (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_2H_CROSSBOW_LARGE": {
+    "category": "Weapon",
+    "name": "Ballesta Repetidora (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_2H_CROSSBOW_MORGANA": {
+    "category": "Weapon",
+    "name": "Ballesta de Cristal (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_2H_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_2H_CURSESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_2H_CURSESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Vida (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_2H_CURSESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Sombra (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_2H_DAGGERPAIR": {
+    "category": "Weapon",
+    "name": "Dagas en Par (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_2H_DAGGER_AVALON": {
+    "category": "Weapon",
+    "name": "Deathgivers (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_2H_DAGGER_HELL": {
+    "category": "Weapon",
+    "name": "Sedienta de Sangre (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_2H_DAGGER_MORGANA": {
+    "category": "Weapon",
+    "name": "Segadora de Almas (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_2H_DEMONICSTAFF": {
+    "category": "Weapon",
+    "name": "Demoníaco (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_2H_DIVINESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Divino (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_2H_DUALHAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Mano de Justicia (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_DUALSWORD": {
+    "category": "Weapon",
+    "name": "Espadas Dobles (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_2H_DUALSWORD_HELL": {
+    "category": "Weapon",
+    "name": "Galatinas (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_2H_ENIGMATICSTAFF": {
+    "category": "Weapon",
+    "name": "Enigmático (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_2H_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón de Fuego (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_FIRESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Llamas (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_FIRESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Sulfúrico (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_FIRESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bastón Salvaje (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_FIRESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ardiente (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_FLAIL": {
+    "category": "Weapon",
+    "name": "Lucero del Alba (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_2H_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_2H_FROSTSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Chill (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_2H_FROSTSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Hoary (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_2H_FROSTSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Permafrost (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_2H_GLACIALSTAFF": {
+    "category": "Weapon",
+    "name": "Glacial (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_2H_GLAIVE": {
+    "category": "Weapon",
+    "name": "Guadaña (Glaive) (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_2H_HALBERD": {
+    "category": "Weapon",
+    "name": "Alabarda (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo Grande (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_HAMMER_AVALON": {
+    "category": "Weapon",
+    "name": "Vigilante (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_HAMMER_HELL": {
+    "category": "Weapon",
+    "name": "Martillo de la Forja (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_HAMMER_KEEPER": {
+    "category": "Weapon",
+    "name": "Martillo de Tumba (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_HARPOON": {
+    "category": "Weapon",
+    "name": "Espontón (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_2H_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Gran Bastón Sagrado (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_2H_HOLYSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Hallowfall (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_2H_HOLYSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Caído (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_2H_HOLYSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Redención (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_2H_INFERNOSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Infernal (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_2H_IRONCLADSTAFF": {
+    "category": "Weapon",
+    "name": "Grial (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_LONGBOW": {
+    "category": "Weapon",
+    "name": "Arco Largo (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_MACE": {
+    "category": "Weapon",
+    "name": "Maza Pesada (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_2H_MACE_AVALON": {
+    "category": "Weapon",
+    "name": "Guardián del Juramento (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_2H_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Camlann (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_2H_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Grande (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_2H_NATURESTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Espinas (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_2H_NATURESTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Plaga (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_2H_NATURESTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Ironroot (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_2H_POLEHAMMER": {
+    "category": "Weapon",
+    "name": "Martillo de Polo (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_2H_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Monje Negro (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_QUARTERSTAFF_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_QUARTERSTAFF_HELL": {
+    "category": "Weapon",
+    "name": "Almas (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_QUARTERSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Equilibrio (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_QUARTERSTAFF_MORGANA": {
+    "category": "Weapon",
+    "name": "Buscador de Dobles (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_2H_REPEATINGCROSSBOW_HELL": {
+    "category": "Weapon",
+    "name": "Ballesta de Asedio (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_2H_ROCKMACE_KEEPER": {
+    "category": "Weapon",
+    "name": "Maza de Roca (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_2H_SCIMITAR_MORGANA": {
+    "category": "Weapon",
+    "name": "Espada Tallada (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_2H_SCYTHE_HELL": {
+    "category": "Weapon",
+    "name": "Guadaña Infernal (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_2H_SHAPESHIFTER_AVALON": {
+    "category": "Weapon",
+    "name": "Cristal (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SHAPESHIFTER_BEAR": {
+    "category": "Weapon",
+    "name": "Oso (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SHAPESHIFTER_EAGLE": {
+    "category": "Weapon",
+    "name": "Águila (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SHAPESHIFTER_GOLEM": {
+    "category": "Weapon",
+    "name": "Golem (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SHAPESHIFTER_TREANT": {
+    "category": "Weapon",
+    "name": "Sylvian (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SHAPESHIFTER_WEREWOLF": {
+    "category": "Weapon",
+    "name": "Luna de Sangre (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_2H_SPEAR": {
+    "category": "Weapon",
+    "name": "Pica (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_2H_SPEAR_AVALON": {
+    "category": "Weapon",
+    "name": "Amanecer (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_2H_SPEAR_HELL": {
+    "category": "Weapon",
+    "name": "Trinidad (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_2H_WARBOW": {
+    "category": "Weapon",
+    "name": "Arco de Guerra (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_2H_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Batalla (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WARGLOVE_AVALON": {
+    "category": "Weapon",
+    "name": "Avalona (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WARGLOVE_HELL": {
+    "category": "Weapon",
+    "name": "Cuervo (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WARGLOVE_KEEPER": {
+    "category": "Weapon",
+    "name": "Ursine (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WARGLOVE_MORGANA": {
+    "category": "Weapon",
+    "name": "Hellfire (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WARGLOVE_SPIKE": {
+    "category": "Weapon",
+    "name": "Guantes de Púas (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_2H_WILDSTAFF": {
+    "category": "Weapon",
+    "name": "Salvaje (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_ARMOR_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Peto de Erudito (T8)",
+    "sub_category": "Erudito"
+  },
+  "T8_ARMOR_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Peto de Clerigo (T8)",
+    "sub_category": "Clerigo"
+  },
+  "T8_ARMOR_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Peto de Mercenario (T8)",
+    "sub_category": "Mercenario"
+  },
+  "T8_ARMOR_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Peto de Cazador (T8)",
+    "sub_category": "Cazador"
+  },
+  "T8_ARMOR_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Peto de Soldado (T8)",
+    "sub_category": "Soldado"
+  },
+  "T8_ARMOR_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Peto de Caballero (T8)",
+    "sub_category": "Caballero"
+  },
+  "T8_BAG": {
+    "category": "Accessory",
+    "name": "Bolso (T8)",
+    "sub_category": "Bolso"
+  },
+  "T8_BAG_INSIGHT": {
+    "category": "Skin",
+    "name": "Cartera de la Perspicacia (T8)",
+    "sub_category": "Accesorio"
+  },
+  "T8_CAPE": {
+    "category": "Accessory",
+    "name": "Capa (T8)",
+    "sub_category": "Capa"
+  },
+  "T8_CLOTH": {
+    "category": "Resource",
+    "name": "Tela (T8)",
+    "sub_category": "Recurso"
+  },
+  "T8_HEAD_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Casco de Erudito (T8)",
+    "sub_category": "Erudito"
+  },
+  "T8_HEAD_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Casco de Clerigo (T8)",
+    "sub_category": "Clerigo"
+  },
+  "T8_HEAD_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Casco de Mercenario (T8)",
+    "sub_category": "Mercenario"
+  },
+  "T8_HEAD_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Casco de Cazador (T8)",
+    "sub_category": "Cazador"
+  },
+  "T8_HEAD_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Casco de Soldado (T8)",
+    "sub_category": "Soldado"
+  },
+  "T8_HEAD_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Casco de Caballero (T8)",
+    "sub_category": "Caballero"
+  },
+  "T8_LEATHER": {
+    "category": "Resource",
+    "name": "Cuero (T8)",
+    "sub_category": "Recurso"
+  },
+  "T8_MAIN_ARCANESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Arcano (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_MAIN_ARCANESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Bruja (T8)",
+    "sub_category": "Bastón Arcano"
+  },
+  "T8_MAIN_AXE": {
+    "category": "Weapon",
+    "name": "Hacha de Batalla (T8)",
+    "sub_category": "Hachas"
+  },
+  "T8_MAIN_BOW": {
+    "category": "Weapon",
+    "name": "Arco (T8)",
+    "sub_category": "Arcos"
+  },
+  "T8_MAIN_CROSSBOW": {
+    "category": "Weapon",
+    "name": "Ballesta Ligera (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_MAIN_CROSSBOW_KEEPER": {
+    "category": "Weapon",
+    "name": "Tirador de Saetas (T8)",
+    "sub_category": "Ballestas"
+  },
+  "T8_MAIN_CURSESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Maldito (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_MAIN_CURSESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Calavera (T8)",
+    "sub_category": "Bastón Maldito"
+  },
+  "T8_MAIN_DAGGER": {
+    "category": "Weapon",
+    "name": "Daga (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_MAIN_DAGGER_KEEPER": {
+    "category": "Weapon",
+    "name": "Colmillos (T8)",
+    "sub_category": "Dagas"
+  },
+  "T8_MAIN_FIRESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Fuego (T8)",
+    "sub_category": "Bastón de Fuego"
+  },
+  "T8_MAIN_FROSTSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hielo (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_MAIN_FROSTSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Escarcha (T8)",
+    "sub_category": "Bastón de Hielo"
+  },
+  "T8_MAIN_HAMMER": {
+    "category": "Weapon",
+    "name": "Martillo (T8)",
+    "sub_category": "Martillos"
+  },
+  "T8_MAIN_HOLYSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Sagrado (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_MAIN_HOLYSTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Vida (T8)",
+    "sub_category": "Bastón Sagrado"
+  },
+  "T8_MAIN_MACE": {
+    "category": "Weapon",
+    "name": "Maza (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_MAIN_MACE_HELL": {
+    "category": "Weapon",
+    "name": "Incubus (T8)",
+    "sub_category": "Mazas"
+  },
+  "T8_MAIN_NATURESTAFF": {
+    "category": "Weapon",
+    "name": "Bastón Natural (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_MAIN_NATURESTAFF_KEEPER": {
+    "category": "Weapon",
+    "name": "Druida (T8)",
+    "sub_category": "Bastón Natural"
+  },
+  "T8_MAIN_QUARTERSTAFF": {
+    "category": "Weapon",
+    "name": "Bastón de Hierro (T8)",
+    "sub_category": "Quarterstaffs"
+  },
+  "T8_MAIN_SHAPESHIFTER_PANTHER": {
+    "category": "Weapon",
+    "name": "Pantera (T8)",
+    "sub_category": "Bastón Cambiaformas"
+  },
+  "T8_MAIN_SPEAR": {
+    "category": "Weapon",
+    "name": "Lanza (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_MAIN_SPEAR_KEEPER": {
+    "category": "Weapon",
+    "name": "Garzas (T8)",
+    "sub_category": "Lanzas"
+  },
+  "T8_MAIN_SWORD": {
+    "category": "Weapon",
+    "name": "Espada Ancha (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_MAIN_SWORD_KEEPER": {
+    "category": "Weapon",
+    "name": "Hoja de Clarent (T8)",
+    "sub_category": "Espadas"
+  },
+  "T8_MAIN_WARGLOVE": {
+    "category": "Weapon",
+    "name": "Guantes de Pelea (T8)",
+    "sub_category": "Guantes de Guerra"
+  },
+  "T8_MEAL_STEW": {
+    "category": "Consumable",
+    "name": "Estofado de buey (T8)",
+    "sub_category": "Comida"
+  },
+  "T8_METALBAR": {
+    "category": "Resource",
+    "name": "Lingote de Metal (T8)",
+    "sub_category": "Recurso"
+  },
+  "T8_MOUNT_HORSE": {
+    "category": "Mount",
+    "name": "Caballo (T8)",
+    "sub_category": "Caballo"
+  },
+  "T8_MOUNT_MAMMOTH": {
+    "category": "Skin",
+    "name": "Mamut de Comando (T8)",
+    "sub_category": "Montura Rara"
+  },
+  "T8_MOUNT_OX": {
+    "category": "Mount",
+    "name": "Buey (T8)",
+    "sub_category": "Buey"
+  },
+  "T8_PLANKS": {
+    "category": "Resource",
+    "name": "Tablas (T8)",
+    "sub_category": "Recurso"
+  },
+  "T8_SHOES_CLOTH_SET1": {
+    "category": "Armor",
+    "name": "Botas de Erudito (T8)",
+    "sub_category": "Erudito"
+  },
+  "T8_SHOES_CLOTH_SET2": {
+    "category": "Armor",
+    "name": "Botas de Clerigo (T8)",
+    "sub_category": "Clerigo"
+  },
+  "T8_SHOES_LEATHER_SET1": {
+    "category": "Armor",
+    "name": "Botas de Mercenario (T8)",
+    "sub_category": "Mercenario"
+  },
+  "T8_SHOES_LEATHER_SET2": {
+    "category": "Armor",
+    "name": "Botas de Cazador (T8)",
+    "sub_category": "Cazador"
+  },
+  "T8_SHOES_PLATE_SET1": {
+    "category": "Armor",
+    "name": "Botas de Soldado (T8)",
+    "sub_category": "Soldado"
+  },
+  "T8_SHOES_PLATE_SET2": {
+    "category": "Armor",
+    "name": "Botas de Caballero (T8)",
+    "sub_category": "Caballero"
+  },
+  "T8_STONEBLOCK": {
+    "category": "Resource",
+    "name": "Bloque de Piedra (T8)",
+    "sub_category": "Recurso"
+  },
+  "UNIQUE_MOUNT_BEAR_KEEPER": {
+    "category": "Skin",
+    "name": "Oso Grizzly",
+    "sub_category": "Montura Rara"
+  },
+  "UNIQUE_MOUNT_BLACK_PANTHER": {
+    "category": "Skin",
+    "name": "Pantera Negra",
+    "sub_category": "Montura Rara"
+  },
+  "UNIQUE_MOUNT_GIANT_HORSE": {
+    "category": "Skin",
+    "name": "Caballo Gigante",
+    "sub_category": "Montura Rara"
+  },
+  "UNIQUE_MOUNT_MORGANA_RAVEN": {
+    "category": "Skin",
+    "name": "Cuervo de Morgana",
+    "sub_category": "Montura Rara"
+  },
+  "UNIQUE_MOUNT_RESTING_SALAMANDER": {
+    "category": "Skin",
+    "name": "Salamandra de Pantano",
+    "sub_category": "Montura Rara"
+  }
+}

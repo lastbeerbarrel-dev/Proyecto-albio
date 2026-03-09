@@ -1,0 +1,14 @@
+{
+    "OrderID": 123456789,
+    "ItemID": "T4_BAG",
+    "LocationID": 3005,
+    "Quality": 1,
+    "UnitPrice": 5000,
+    "Amount": 10,
+    "AuctionType": "offer",
+    "Expires": "2026-02-08T18:00:00Z",
+    "UpdatedAt": "2026-02-08T18:00:00Z",
+    "Source": "test",
+    "Confidence": "",
+    "Region": "Americas"
+}
